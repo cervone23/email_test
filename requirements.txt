@@ -79,6 +79,7 @@ urllib3==1.26.2
 validators==0.18.2
 watchdog==1.0.2
 wcwidth==0.2.5
+pywin32==228
 webencodings==0.5.1
 widgetsnbextension==3.5.1
 xlrd==2.0.1
