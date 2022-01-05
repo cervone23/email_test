@@ -12,5 +12,3 @@ if st.button("Get EMAIL"):
 
     message.Display()
 
-if __name__ == '__main__':
-    main()
